@@ -1,4 +1,4 @@
-### *Resumo das aulas da professora Otávio Reis*
+### *Resumo das aulas do professor Otávio Reis*
 
 ##### Comandos básicos do Prompt para windows
 
